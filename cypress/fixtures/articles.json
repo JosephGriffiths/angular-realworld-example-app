@@ -1,0 +1,37 @@
+{
+  "articles": [{
+    "title": "www",
+    "slug": "www-x11mon",
+    "body": "ww",
+    "createdAt": "2021-04-01T12:43:02.033Z",
+    "updatedAt": "2021-04-01T12:43:02.033Z",
+    "tagList": [],
+    "description": "ww",
+    "author": {
+      "username": "dashaB",
+      "bio": null,
+      "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+      "following": false
+    },
+    "favorited": false,
+    "favoritesCount": 1
+  }, {
+    "title": "This is a title",
+    "slug": "this-is-a-title-n22ek3",
+    "body": "This is a body of the article",
+    "createdAt": "2021-04-01T12:41:55.886Z",
+    "updatedAt": "2021-04-01T12:41:55.886Z",
+    "tagList": [],
+    "description": "This is the description",
+    "author": {
+      "username": "JosephGriffiths",
+      "bio": null,
+      "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+      "following": false
+    },
+    "favorited": false,
+    "favoritesCount": 5
+  }
+],
+  "articlesCount": 500
+}
